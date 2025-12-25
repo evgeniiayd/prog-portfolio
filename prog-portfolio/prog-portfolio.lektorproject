@@ -1,0 +1,5 @@
+[project]
+name = prog-portfolio
+
+[servers.ghpages]
+target = ghpages+https://evgeniiayd/prog-portfolio
